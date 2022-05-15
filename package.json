@@ -4,13 +4,13 @@
   "main": "build/index.js",
   "license": "MIT",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.3.1",
-    "@typescript-eslint/parser": "^5.3.1",
-    "eslint": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
+    "eslint": "^8.15.0",
     "eslint-config-google": "^0.14.0",
     "ts-node": "^10.7.0",
-    "type-predicates-generator": "^0.2.1",
-    "typescript": "^4.4.4"
+    "type-predicates-generator": "^0.3.2",
+    "typescript": "^4.6.4"
   },
   "scripts": {
     "start": "yarn build:live",
